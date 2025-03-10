@@ -1461,56 +1461,56 @@
         },
         {
             "id": "c72",
-            "bossId": "setentayuno",
+            "bossId": "setentaydos",
             "text": "One of my toughest fights, but the arena was beautiful. I recommend using ranged attacks to keep a safe distance.",
             "author": "KnightOfAshes"
         },
         {
             "id": "c73",
-            "bossId": "setentaydos",
+            "bossId": "setentaytres",
             "text": "Yhorm's size is intimidating, but his attacks are slow. Use the Storm Ruler weapon to make the fight much easier.",
             "author": "Firekeeper"
         },
         {
             "id": "c74",
-            "bossId": "setentaydos",
+            "bossId": "setentaycuatro",
             "text": "He hits hard but can be staggered with the right weapon. Make sure to dodge his charge attacks.",
             "author": "AshenOne"
         },
         {
             "id": "c75",
-            "bossId": "setentaytres",
+            "bossId": "setentaycinco",
             "text": "Aldrich's magic is deadly, but you can avoid most of it with good timing. Keep your distance and heal when necessary.",
             "author": "Pyromancer"
         },
         {
             "id": "c76",
-            "bossId": "setentaytres",
+            "bossId": "setentayseis",
             "text": "The toughest part is dealing with the arrows and the AoE spells. Stay mobile and keep your distance.",
             "author": "Sorcerer"
         },
         {
             "id": "c77",
-            "bossId": "setentaycuatro",
+            "bossId": "setentaysiete",
             "text": "Dancer is a fast and fluid fighter. Her moves can be hard to predict, but once you get her patterns down, it’s much easier.",
             "author": "WarriorOfTheSun"
         },
         {
             "id": "c78",
-            "bossId": "setentaycuatro",
+            "bossId": "setentayocho",
             "text": "I found this fight easier when staying close to her. Her long-range attacks can be deadly if you keep your distance.",
             "author": "Healer"
         },
         {
             "id": "c79",
-            "bossId": "setentaycinco",
-            "text": "Dragonslayer Armour can be a nightmare if you don’t watch out for his sweeping attacks. Stay behind him when possible.",
+            "bossId": "setentaynueve",
+            "text": "Dragonslayer Armour can be a nightmare if you don't watch out for his sweeping attacks. Stay behind him when possible.",
             "author": "KnightOfLight"
         },
         {
             "id": "c80",
-            "bossId": "setentaycinco",
-            "text": "A cool fight, but the arena is tricky. Keep an eye on the moves of the dragonslayer armor and punish him when he’s open.",
+            "bossId": "ochenta",
+            "text": "A cool fight, but the arena is tricky. Keep an eye on the moves of the dragonslayer armor and punish him when he's open.",
             "author": "Champion"
         }
     ]
