@@ -4,8 +4,21 @@
   "description": "projecto servidor",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroCorrea21/dark-souls-bosspedia-server.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AlejandroCorrea21/dark-souls-bosspedia-server/issues"
+  },
+  "homepage": "https://github.com/AlejandroCorrea21/dark-souls-bosspedia-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
