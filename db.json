@@ -894,6 +894,14 @@
   ],
   "comments": [
     {
+      "id": "c1",
+      "bossId": "uno",
+      "user": "DarkSoulMaster",
+      "comment": "Pretty easy if you know the tricks.",
+      "rating": 3,
+      "date": "2025-03-10"
+    },
+    {
       "id": "c2",
       "bossId": "dos",
       "user": "KnightOfTheFlame",
