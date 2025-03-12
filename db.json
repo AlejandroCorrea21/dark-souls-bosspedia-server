@@ -1540,22 +1540,6 @@
       "user": "The King",
       "rating": 10,
       "date": "2025-03-02"
-    },
-    {
-      "id": "c82",
-      "bossId": "ochentaydos",
-      "comment": "Probando PUT actualizar",
-      "user": "El Ale",
-      "rating": 7,
-      "date": "2025-03-02"
-    },
-    {
-      "id": "c83",
-      "bossId": "ochentaydos",
-      "comment": "Probando POST en Postman",
-      "user": "Ale",
-      "rating": 7,
-      "date": "2025-03-02"
     }
   ]
 }
