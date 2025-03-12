@@ -1456,80 +1456,102 @@
     {
       "id": "c71",
       "bossId": "setentayuno",
-      "text": "Pontiff Sulyvahn can be a tough fight due to his magic and sword attacks. Stay patient and watch his patterns.",
-      "author": "Champion"
+      "comment": "Pontiff Sulyvahn can be a tough fight due to his magic and sword attacks. Stay patient and watch his patterns.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c72",
       "bossId": "setentaydos",
-      "text": "Yhorm the Giant might seem intimidating, but the Storm Ruler weapon is your key to victory. Don't hesitate to use it.",
-      "author": "Champion"
+      "comment": "Yhorm the Giant might seem intimidating, but the Storm Ruler weapon is your key to victory. Don't hesitate to use it.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c73",
       "bossId": "setentaytres",
-      "text": "Aldrich, Devourer of Gods, has a lot of ranged attacks. Make sure to dodge often and wait for openings to attack.",
-      "author": "Champion"
+      "comment": "Aldrich, Devourer of Gods, has a lot of ranged attacks. Make sure to dodge often and wait for openings to attack.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c74",
       "bossId": "setentaycuatro",
-      "text": "The Dancer of the Boreal Valley is graceful but deadly. Keep your distance and learn her moves to strike when she's vulnerable.",
-      "author": "Champion"
+      "comment": "The Dancer of the Boreal Valley is graceful but deadly. Keep your distance and learn her moves to strike when she's vulnerable.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c75",
       "bossId": "setentaycinco",
-      "text": "The Dragonslayer Armour is slow but powerful. Watch out for his wide-reaching attacks and punish him when he's open.",
-      "author": "Champion"
+      "comment": "The Dragonslayer Armour is slow but powerful. Watch out for his wide-reaching attacks and punish him when he's open.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c76",
       "bossId": "setentayseis",
-      "text": "Oceiros, the Consumed King, uses fast and unpredictable attacks. Stick close and learn his moves to dodge and retaliate.",
-      "author": "Champion"
+      "comment": "Oceiros, the Consumed King, uses fast and unpredictable attacks. Stick close and learn his moves to dodge and retaliate.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c77",
       "bossId": "setentaysiete",
-      "text": "Champion Gundyr is tough, but you can overcome him with patience. Dodge his powerful attacks and wait for the right moment to strike.",
-      "author": "Champion"
+      "comment": "Champion Gundyr is tough, but you can overcome him with patience. Dodge his powerful attacks and wait for the right moment to strike.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c78",
       "bossId": "setentayocho",
-      "text": "Lothric, Younger Prince, is a tricky boss with many combos. Keep your guard up and watch for opportunities to strike when he's vulnerable.",
-      "author": "Champion"
+      "comment": "Lothric, Younger Prince, is a tricky boss with many combos. Keep your guard up and watch for opportunities to strike when he's vulnerable.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c79",
       "bossId": "setentaynueve",
-      "text": "The Ancient Wyvern is a unique fight. Watch out for its deadly fire attacks and use the environment to your advantage to stay safe.",
-      "author": "Champion"
+      "comment": "The Ancient Wyvern is a unique fight. Watch out for its deadly fire attacks and use the environment to your advantage to stay safe.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c80",
       "bossId": "ochenta",
-      "text": "Dragonslayer Armour can be a nightmare if you don't watch out for his sweeping attacks. Stay behind him when possible.",
-      "author": "KnightOfLight"
+      "comment": "Dragonslayer Armour can be a nightmare if you don't watch out for his sweeping attacks. Stay behind him when possible.",
+      "user": "Champion",
+      "rating": 8,
+      "date": "2025-03-01"
     },
     {
       "id": "c81",
       "bossId": "ochentayuno",
-      "text": "A truly epic battle, where the Soul of Cinder's many forms keep you on your toes. Be prepared for a long fight and watch out for his fiery attacks. Patience is key.",
-      "author": "Champion"
+      "comment": "A truly epic battle, where the Soul of Cinder's many forms keep you on your toes. Be prepared for a long fight and watch out for his fiery attacks. Patience is key.",
+      "user": "The King",
+      "rating": 10,
+      "date": "2025-03-02"
     },
     {
       "bossId": "ochentaydos",
-      "text": "Probando PUT actualizar",
-      "author": "El Ale",
+      "comment": "Probando PUT actualizar",
+      "user": "El Ale",
       "id": "c82"
     },
     {
       "id": "c83",
       "bossId": "ochentaydos",
-      "text": "Probando POST en Postman",
-      "author": "Ale"
+      "comment": "Probando POST en Postman",
+      "user": "Ale"
     }
   ]
 }
