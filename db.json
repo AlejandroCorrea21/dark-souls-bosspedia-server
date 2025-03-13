@@ -894,22 +894,6 @@
   ],
   "comments": [
     {
-      "id": "c1",
-      "bossId": "uno",
-      "user": "DarkSoulMaster",
-      "comment": "Pretty easy if you know the tricks.",
-      "rating": "Dark Souls 3",
-      "date": "2025-03-10"
-    },
-    {
-      "id": "c2",
-      "bossId": "dos",
-      "user": "KnightOfTheFlame",
-      "comment": "Annoying when the second one joins in!",
-      "rating": 6,
-      "date": "2025-03-09"
-    },
-    {
       "id": "c3",
       "bossId": "tres",
       "user": "HollowedOne",
@@ -1540,6 +1524,62 @@
       "user": "The King",
       "rating": 10,
       "date": "2025-03-02"
+    },
+    {
+      "comment": "321231",
+      "user": "322323",
+      "rating": "4",
+      "bossId": "cuatro",
+      "date": "Invalid Date",
+      "id": "1yCKM4C"
+    },
+    {
+      "comment": "Soy el padre de Kurt",
+      "user": "useEffect",
+      "rating": 1,
+      "bossId": "uno",
+      "date": "Invalid Date",
+      "id": "Alchl55"
+    },
+    {
+      "comment": "Juan <3 Monster",
+      "user": "Kurt",
+      "rating": "3",
+      "bossId": "uno",
+      "date": "Invalid Date",
+      "id": "9-TbJVp"
+    },
+    {
+      "comment": "Súbanle la dificultad al módulo",
+      "user": "Samu",
+      "rating": "3",
+      "bossId": "uno",
+      "date": "Invalid Date",
+      "id": "v4xJhtb"
+    },
+    {
+      "comment": "más feo que padrastro borracho",
+      "user": "MasticaPiedras",
+      "rating": "3",
+      "bossId": "dos",
+      "date": "Invalid Date",
+      "id": "Ztl9Dvm"
+    },
+    {
+      "comment": "añadan súbtitulos al combate",
+      "user": "SordoMudo",
+      "rating": "5",
+      "bossId": "dos",
+      "date": "Invalid Date",
+      "id": "wNHwTTo"
+    },
+    {
+      "comment": "La mejor experiencia que vi en mi vida (dijo nunca nadie)",
+      "user": "Miau",
+      "rating": 1,
+      "bossId": "tres",
+      "date": "Invalid Date",
+      "id": "THhc7SI"
     }
   ]
 }
