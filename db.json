@@ -1540,6 +1540,23 @@
       "user": "The King",
       "rating": 10,
       "date": "2025-03-02"
+    },
+    {
+      "name": "Asylum Demon",
+      "bossId": "uno",
+      "comment": "Probando POST en Postman",
+      "user": "Ale",
+      "rating": 8,
+      "date": "02-03-1993",
+      "id": "Gsb1Cpe"
+    },
+    {
+      "bossId": "uno",
+      "comment": "Probando PUT en Postman",
+      "user": "El Ale",
+      "rating": 8,
+      "date": "02-03-1993",
+      "id": "K9jMZpY"
     }
   ]
 }
